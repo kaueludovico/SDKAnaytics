@@ -1,0 +1,22 @@
+{
+  "name": "SDKAnalytics",
+  "version": "0.1.0",
+  "summary": "A short description of SDKAnalytics.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kaueludovico/SDKAnalytics",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kaueludovico": "kaueludovico@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/kaueludovico/SDKAnalytics.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SDKAnalytics/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module SDKAnalytics {
+  umbrella header "SDKAnalytics-umbrella.h"
+
+  export *
+  module * { export * }
+}
